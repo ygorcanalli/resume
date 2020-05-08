@@ -1,12 +1,17 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Aprendizado de Máquina
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Processamento de Linguagem Natural
+
+- Skill: LaTeX
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Ambiente científico Python
+  description: NumPy, SciPy, Scikit-learn, Matplotlib, Pandas, TensorFlor, Keras, PyTorch
+
+- skill: Ambiente científico Julia
+
+- skill: Linux
+description: Configuração e gerenciamento de servidores Linux
+
