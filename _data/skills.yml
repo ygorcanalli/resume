@@ -16,7 +16,7 @@
 - skill: Ambiente científico Python (NumPy, SciPy, Scikit-learn, Matplotlib, Pandas, TensorFlor, Keras, PyTorch)
   #description: NumPy, SciPy, Scikit-learn, Matplotlib, Pandas, TensorFlor, Keras, PyTorch
 
-- skill: Computação de Alto Desempenho
+- skill: Computação de Alto Desempenho (paralelismo, sistemas distribuídos e GPUs)
   #description: Paralelismo, sistemas distribuídos, GPUs
 
 - skill: Configuração e gerenciamento de servidores Linux
