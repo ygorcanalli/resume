@@ -1,21 +1,23 @@
 # Skills
 # Organizational leadership
 - skill: Aprendizado de Máquina
+  description: Aprendizado supervisionado, não-supervisionado, semi-supervisionado, sistemas de recomendação
 
 - skill: Processamento de Linguagem Natural
+  description: Processamento de texto, dados não estruturados, recuperação da informação
 
 - skill: LaTeX
+  description: Escrita técnica e científica
 
 - skill: Bancos de Dados
-  description: Bancos de Dados Relacionais (SQL) e Não Relacionais (NoSQL)
+  description: Bancos de Dados Relacionais (SQL) e Não-Relacionais (NoSQL)
 
 # Digital content development and creation
 - skill: Ambiente científico Python
   description: NumPy, SciPy, Scikit-learn, Matplotlib, Pandas, TensorFlor, Keras, PyTorch
 
-- skill: Ambiente científico Julia
-
 - skill: Computação de Alto Desempenho
+  description: Paralelismo, sistemas distribuídos e GPUs
 
 - skill: Linux
   description: Configuração e gerenciamento de servidores Linux
