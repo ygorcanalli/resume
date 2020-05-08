@@ -14,22 +14,9 @@
 
 # Communications Coordinator
 - company: Fundação COPPETEC
-  position: Desenvolvedor
-  duration: 2017  &mdash; 2018
-  summary: Desenvolvedor no Projeto Reflora, Jardim Botânico do Rio de Janeiro
-
-# Communications Coordinator
-- company: Fundação COPPETEC
-  position: Gerente de Desenvolvimento
-  duration: 2015  &mdash; 2015
-  summary: Gerente de Desenvolvimento do Catálogo Taxonômico da Fauna do Brasil, Ministério do Meio Ambiente
-
-
-# Communications Coordinator
-- company: Fundação COPPETEC
-  position: Desenvolvedor
+  position: Desenvolvedor e Gerente de Desenvolvimento
   duration: 2013  &mdash; 2015, 2017  &mdash; 2018
-  summary: Desenvolvedor nos projetos Reflora (Jardim Botânico do Rio de Janeiro) e Catálogo Taxonômico da Fauna do Brasil (Ministério do Meio Ambiente), Gerente de Desenvolvimento do Catálogo Taxonômico da Fauna do Brasil
+  summary: Desenvolvedor no Projeto Reflora (Jardim Botânico do Rio de Janeiro) 2013  &mdash; 2014; Desenvolvedor no Catálogo Taxonômico da Fauna do Brasil (Ministério do Meio Ambiente) 2014  &mdash; 2015, Gerente de Desenvolvimento do Catálogo Taxonômico da Fauna do Brasil 2015  &mdash; 2015, Desenvolvedor no Projeto Reflora 2017  &mdash; 2018
 
 # Communications Coordinator
 #- company: Prill Tecnologia
