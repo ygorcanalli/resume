@@ -4,10 +4,10 @@
   description: Aprendizado supervisionado, não-supervisionado, semi-supervisionado, sistemas de recomendação
 
 - skill: Processamento de Linguagem Natural
-  description: Processamento de texto, dados não estruturados, recuperação da informação
+  description: Processamento de texto, dados não-estruturados, recuperação da informação
 
-- skill: LaTeX
-  description: Escrita técnica e científica
+- skill: Escrita 
+  description: Escrita técnica e científica utilizando LaTeX
 
 - skill: Bancos de Dados
   description: Bancos de Dados Relacionais (SQL) e Não-Relacionais (NoSQL)
@@ -17,7 +17,7 @@
   description: NumPy, SciPy, Scikit-learn, Matplotlib, Pandas, TensorFlor, Keras, PyTorch
 
 - skill: Computação de Alto Desempenho
-  description: Paralelismo, sistemas distribuídos e GPUs
+  description: Paralelismo, sistemas distribuídos, GPUs
 
 - skill: Linux
   description: Configuração e gerenciamento de servidores Linux
