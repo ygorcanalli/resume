@@ -1,5 +1,6 @@
 # Jobs
 # VP of Global Communications
+
 - company: Colégio Pedro II
   position: Docente efetivo do Departamento de Ciência da Computação
   duration: 2015 &mdash; Atual
@@ -19,19 +20,19 @@
 
 # Communications Coordinator
 - company: Fundação COPPETEC
-position: Gerente de Desenvolvimento
-duration: 2015  &mdash; 2015
-summary: Gerente de Desenvolvimento do Catálogo Taxonômico da Fauna do Brasil, Ministério do Meio Ambiente
+  position: Gerente de Desenvolvimento
+  duration: 2015  &mdash; 2015
+  summary: Gerente de Desenvolvimento do Catálogo Taxonômico da Fauna do Brasil, Ministério do Meio Ambiente
 
 
 # Communications Coordinator
 - company: Fundação COPPETEC
-position: Desenvolvedor
-duration: 2013  &mdash; 2015
-summary: Desenvolvedor nos projetos Reflora (Jardim Botânico do Rio de Janeiro) e Catálogo Taxonômico da Fauna do Brasil (Ministério do Meio Ambiente)
+  position: Desenvolvedor
+  duration: 2013  &mdash; 2015
+  summary: Desenvolvedor nos projetos Reflora (Jardim Botânico do Rio de Janeiro) e Catálogo Taxonômico da Fauna do Brasil (Ministério do Meio Ambiente)
 
 # Communications Coordinator
 - company: Prill Tecnologia
-position: Estagiário de Infraestrutura
-duration: 2010  &mdash; 2011
-summary: Configuração e manutenção de servidores Linux
+  position: Estagiário de Infraestrutura
+  duration: 2010  &mdash; 2011
+  summary: Configuração e manutenção de servidores Linux
