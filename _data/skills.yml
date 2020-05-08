@@ -4,7 +4,10 @@
 
 - skill: Processamento de Linguagem Natural
 
-- Skill: LaTeX
+- skill: LaTeX
+
+- skill: Bancos de Dados
+  description: Bancos de Dados Relacionais (SQL) e Não Relacionais (NoSQL)
 
 # Digital content development and creation
 - skill: Ambiente científico Python
@@ -12,6 +15,10 @@
 
 - skill: Ambiente científico Julia
 
-- skill: Linux
-description: Configuração e gerenciamento de servidores Linux
+- skill: Computação de Alto Desempenho
 
+- skill: Linux
+  description: Configuração e gerenciamento de servidores Linux
+
+- skill: Desenvolvimento de Software
+  description: Java, HTML, CSS, JavaScript, C/C++, PHP
