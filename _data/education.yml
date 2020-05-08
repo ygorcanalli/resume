@@ -1,13 +1,21 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Doutorado Engenharia de Sistemas e Computação (em andamento)
+  uni: Programa de Engenharia de Sistemas e Computação, COPPE/UFRJ (Conceito CAPES 7)
+  year: 2017 &mdash; Atual
+  summary: Doutorado em andamento sobre aprendizado de máquina justo.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Mestrado em Engenharia de Sistemas e Computação
+  uni: Programa de Engenharia de Sistemas e Computação, COPPE/UFRJ (Conceito CAPES 7)
+  year: 2015 &mdash; 2017
+  award: Bolsista CAPES
+  summary: Funções de ativação hiperbólicas em redes neurais
+
+- degree: Graduação em Ciência da Computação
+  uni: Universidade Federal Rural do Rio de Janeiro
+  year: 2010 &mdash; 2015
+  summary:  Avaliação da medida de similaridade hierárquica no problema de detecção de co-derivativos
+
+- degree: Técnico em Informática
+  uni: Centro Federal de Educação Tecnológica Celso Suckow da Fonseca, CEFET/RJ
+  year: 2007 &mdash; 2010
+  summary:  Avaliação da medida de similaridade hierárquica no problema de detecção de co-derivativos

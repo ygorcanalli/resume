@@ -1,19 +1,37 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Colégio Pedro II
+  position: Docente efetivo do Departamento de Ciência da Computação
+  duration: 2015 &mdash; Atual
+  summary: Ministra disciplinas do Curso Técnico em Desenvolvimento de Sistemas no Campus Duque de Caxias
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Consórcio CEDERJ
+  position: Tutor à distância
+  duration:  2017 &mdash; Atual
+  summary: Tutor da disciplina de Modelagem da Informação no Curso de Tecnologia de Sistemas de Computação (UFF)
+
+# Communications Coordinator
+- company: Fundação COPPETEC
+  position: Desenvolvedor
+  duration: 2017  &mdash; 2018
+  summary: Desenvolvedor no Projeto Reflora, Jardim Botânico do Rio de Janeiro
+
+# Communications Coordinator
+- company: Fundação COPPETEC
+position: Gerente de Desenvolvimento
+duration: 2015  &mdash; 2015
+summary: Gerente de Desenvolvimento do Catálogo Taxonômico da Fauna do Brasil, Ministério do Meio Ambiente
 
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Fundação COPPETEC
+position: Desenvolvedor
+duration: 2013  &mdash; 2015
+summary: Desenvolvedor nos projetos Reflora (Jardim Botânico do Rio de Janeiro) e Catálogo Taxonômico da Fauna do Brasil (Ministério do Meio Ambiente)
+
+# Communications Coordinator
+- company: Prill Tecnologia
+position: Estagiário de Infraestrutura
+duration: 2010  &mdash; 2011
+summary: Configuração e manutenção de servidores Linux
